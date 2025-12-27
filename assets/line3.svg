@@ -1,0 +1,28 @@
+<svg width="100%" height="8" viewBox="0 0 1000 8" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Dim purple rail -->
+    <linearGradient id="rail">
+      <stop offset="0%" stop-color="#2b193f"/>
+      <stop offset="100%" stop-color="#2b193f"/>
+    </linearGradient>
+
+    <!-- Wider moving glow beam -->
+    <linearGradient id="beam" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="420" y2="0">
+      <stop offset="0%" stop-color="#00000000"/>
+      <stop offset="30%" stop-color="#6f42c1"/>
+      <stop offset="50%" stop-color="#b06cff"/>
+      <stop offset="65%" stop-color="#ffb3ff"/>
+      <stop offset="100%" stop-color="#00000000"/>
+      <animateTransform
+        attributeName="gradientTransform"
+        type="translate"
+        from="-420 0"
+        to="1420 0"
+        dur="2.8s"
+        repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="8" rx="4" ry="4" fill="url(#rail)"/>
+  <rect width="1000" height="8" rx="4" ry="4" fill="url(#beam)"/>
+</svg>
