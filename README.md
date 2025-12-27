@@ -1,6 +1,6 @@
 <!--Typing Animation-->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1200&color=C77DFF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Muskan;CS+Graduate;" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1200&color=C77DFF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Muskan;CS+Graduate;Software+Developer;Data+Analyst" />
 </p>
 
 <!--Horizontal Line-->
