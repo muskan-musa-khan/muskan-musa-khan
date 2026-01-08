@@ -16,7 +16,7 @@
 <!--Paragraph-->
 <p>Computer Science graduate who spends most of the time building things that live both on the screen and behind it. I somehow got really into cleaning up confusing, messy stuff and turning it into something that actually makes sense.
 
-Most days you will find me tweaking features, fixing little annoyances, and setting up shortcuts that save time. I like when things work the way they should and do not get in the way. If you enjoy talking about code or laughing about tiny mistakes that break everything. Let's connect!</p>
+Most days you will find me tweaking features, fixing little annoyances, and setting up shortcuts that save time. I like when things work the way they should and do not get in the way. If you enjoy talking about code or laughing about tiny mistakes that break everything, let's connect!</p>
 
 <!--Horizontal Line-->
 <p align="center">
